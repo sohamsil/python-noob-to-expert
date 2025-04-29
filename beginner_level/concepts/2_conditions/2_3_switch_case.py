@@ -1,24 +1,24 @@
-######################################################################### 
-# Switch case statements offer a more structured way to handle          #    
+#########################################################################
+# Switch case statements offer a more structured way to handle          #
 # scenarios where multiple comparisons are required to make a decision  #
 #########################################################################
 
 # Create a grade evaluation system
-grade : str = ""
+grade: str = ""
 
 # Take marks scored as input from user
-marks : int = int(input("Enter student's marks scored : "))
+marks: int = int(input("Enter student's marks scored : "))
 
 # Evaluate grade
-if marks<=100 and marks>80:
+if marks <= 100 and marks > 80:
     grade = "A"
-elif marks<=80 and marks>60:
+elif marks <= 80 and marks > 60:
     grade = "B"
-elif marks<=60 and marks>50:
+elif marks <= 60 and marks > 50:
     grade = "C"
-elif marks<=50 and marks>=35:
+elif marks <= 50 and marks >= 35:
     grade = "D"
-elif marks < 35 and marks>=0:
+elif marks < 35 and marks >= 0:
     grade = "F"
 else:
     print("Invalid input!")
@@ -28,7 +28,7 @@ else:
 match grade:
     case 'A':
         print(f"You have achieved Grade : {grade}.")
-        print("You're eligble for 30% discount for the advanced certification.") 
+        print("You're eligble for 30% discount for the advanced certification.")
     case 'B':
         print(f"You have achieved Grade : {grade}.")
         print("You're eligble for 10% discount for the advanced certification.")
@@ -38,6 +38,7 @@ match grade:
     case 'D':
         print(f"You have achieved Grade : {grade}.")
     case 'F':
-        print(f"You have achieved Grade : {grade}.Please appear retry the exam")
-    case _ :
+        print(
+            f"You have achieved Grade : {grade}.Please appear retry the exam")
+    case _:
         print("Grade not available!")
