@@ -16,6 +16,6 @@ This simple Python script calculates the area of a circle based on the radius en
 ## 🧠 Author
 >**Name**: Soham Sil 
 >
->**LinkedIn**: linkedin.com/in/soham-sil-048127b8 
+>**LinkedIn**: [linkedin.com/in/soham-sil](https://linkedin.com/in/soham-sil-048127b8)  
 >
 >**Email**: sil.soham@gmail.com

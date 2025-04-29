@@ -27,6 +27,6 @@ This Python script demonstrates foundational concepts including variables, typec
 ## 🧠 Author
 >**Name**: Soham Sil 
 >
->**LinkedIn**: linkedin.com/in/soham-sil-048127b8 
+>**LinkedIn**: [linkedin.com/in/soham-sil](https://linkedin.com/in/soham-sil-048127b8)  
 >
 >**Email**: sil.soham@gmail.com

@@ -12,6 +12,6 @@ This simple Python script takes 2 numbers and an arithmatic operator(+,-,*,/,%) 
 ## 🧠 Author
 >**Name**: Soham Sil 
 >
->**LinkedIn**: linkedin.com/in/soham-sil-048127b8 
+>**LinkedIn**: [linkedin.com/in/soham-sil](https://linkedin.com/in/soham-sil-048127b8)  
 >
 >**Email**: sil.soham@gmail.com

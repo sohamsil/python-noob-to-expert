@@ -25,6 +25,6 @@ This Python module demonstrates key decision-making constructs in Python using a
 ## 🧠 Author
 >**Name**: Soham Sil 
 >
->**LinkedIn**: linkedin.com/in/soham-sil-048127b8 
+>**LinkedIn**: [linkedin.com/in/soham-sil](https://linkedin.com/in/soham-sil-048127b8)  
 >
 >**Email**: sil.soham@gmail.com

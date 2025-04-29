@@ -20,8 +20,21 @@ print(f"Count: {count}")
 
 # while loop to print even integers
 count:int = 0
-while True:
+print(f"Even integers:", end=" ")
+while count < 20:
     count += 1
-    if count>10:
-        if 
-print(f"Count: {count}")
+    if count%2 != 0:
+        continue
+    print(count,end=" ")
+
+# while loop to find a number or else print number not found
+count:int = 0
+item: int = 30
+while count < 20:
+    count += 1
+    if item == count:
+        print("Item found!")
+        break
+else:
+    print("Item not found!")
+
